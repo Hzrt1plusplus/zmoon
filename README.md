@@ -10,7 +10,7 @@ easy to learn and very fast for its compiled nature.
 
 # Notes 
 At the time you read this file probably the project will be successfull. I don't try to build it as a project for only my personal affairs. There are already hundreds of programming
-languages. I want to build a philosophy behing this language. Fast and easy(just what we want). I have many plans for the language and future. Thread safety like go, optimization like 
+languages. I want to build a philosophy behind this language. Fast and easy(just what we want). I have many plans for the language and future. Thread safety like go, optimization like 
 gcc compiler and all the other advanced stuff can be done by time. The language will be object-oriented high level and compiled language. It sounds similar to C++ but it will be 
 one of the easiest things to learn.
 
